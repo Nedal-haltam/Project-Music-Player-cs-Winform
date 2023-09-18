@@ -1,0 +1,20 @@
+D:\c++ projects\Project Music Player\bin\Debug\Project Music Player.exe.config
+D:\c++ projects\Project Music Player\bin\Debug\Project Music Player.exe
+D:\c++ projects\Project Music Player\bin\Debug\Project Music Player.pdb
+D:\c++ projects\Project Music Player\bin\Debug\Newtonsoft.Json.dll
+D:\c++ projects\Project Music Player\bin\Debug\Newtonsoft.Json.xml
+D:\c++ projects\Project Music Player\bin\Debug\Interop.WMPLib.dll
+D:\c++ projects\Project Music Player\bin\Debug\AxInterop.WMPLib.dll
+D:\c++ projects\Project Music Player\obj\Debug\Project Music Player.csproj.AssemblyReference.cache
+D:\c++ projects\Project Music Player\obj\Debug\Interop.WMPLib.dll
+D:\c++ projects\Project Music Player\obj\Debug\AxInterop.WMPLib.dll
+D:\c++ projects\Project Music Player\obj\Debug\Project Music Player.csproj.ResolveComReference.cache
+D:\c++ projects\Project Music Player\obj\Debug\Project_Music_Player.Form1.resources
+D:\c++ projects\Project Music Player\obj\Debug\Project_Music_Player.frmmultipletrack.resources
+D:\c++ projects\Project Music Player\obj\Debug\Project_Music_Player.Form3.resources
+D:\c++ projects\Project Music Player\obj\Debug\Project_Music_Player.Properties.Resources.resources
+D:\c++ projects\Project Music Player\obj\Debug\Project Music Player.csproj.GenerateResource.cache
+D:\c++ projects\Project Music Player\obj\Debug\Project Music Player.csproj.CoreCompileInputs.cache
+D:\c++ projects\Project Music Player\obj\Debug\Project Music Player.csproj.CopyComplete
+D:\c++ projects\Project Music Player\obj\Debug\Project Music Player.exe
+D:\c++ projects\Project Music Player\obj\Debug\Project Music Player.pdb
